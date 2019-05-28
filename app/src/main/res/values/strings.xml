@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Seek App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+<!--    <string-array name="doctorName">
+        <item>Dr Lam</item>
+        <item>Dr Priya</item>
+        <item>Dr Danial</item>
+        <item>Dr Amanda</item>
+        <item>Dr Zakaria</item>
+        <item>Dr Aida</item>
+        <item>Dr Raju</item>
+        <item>Dr Elena</item>
+        <item>Dr Mei Yee</item>
+    </string-array>-->
+
+    <string-array name="btnName">
+        <item>Self Compassion Letter</item>
+        <item>Taking a Daily Vacation</item>
+        <item>The Best Possible Self</item>
+        <item>The Strengths Wheel</item>
+        <item>Personality Test</item>
+        <item>Positive Psychology Techniques</item>
+    </string-array>
+</resources>

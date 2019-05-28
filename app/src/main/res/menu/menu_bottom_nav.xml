@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_0"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/item_1"
+        android:title="Psychologist"
+        android:icon="@drawable/ic_nav_1"/>
+    <item
+        android:id="@+id/item_2"
+        android:title="Diary"
+        android:icon="@drawable/ic_rename_2"/>
+<!--    <item
+        android:id="@+id/item_3"
+        android:title="Calendar"
+        android:icon="@drawable/ic_nav_3"/>-->
+    <item
+        android:id="@+id/item_4"
+        android:title="Profile"
+        android:icon="@drawable/ic_nav_4"/>
+
+</menu>
